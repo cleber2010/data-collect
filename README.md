@@ -29,7 +29,7 @@ collect.py
 ## ⚙️ Instalação
 ```bash
 # clone
-git clone <SEU_REPO>
+git clone DATA-COLLECT
 cd DATA-COLLECT
 
 # ambiente virtual (opcional, recomendado)
